@@ -119,7 +119,7 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
-.d-bloc .a-btn,
+/*.d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
@@ -151,7 +151,7 @@ a:hover {
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
-}
+}*/
 
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
@@ -285,6 +285,8 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .navbar {
@@ -662,9 +664,9 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
+/*.hero-bloc-text {
     font-size: 38px;
-}
+}*/
 
 .hero-bloc-text-sub {
     font-size: 36px;
@@ -749,8 +751,8 @@ p {
 
 h1 {
     color: rgb(0, 0, 0)!important;
+    text-transform: uppercase;
 }
-
 /*h4 {
     color: #333333!important;
 }*/

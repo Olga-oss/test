@@ -900,7 +900,7 @@ h1 {
     }
 }
 
-/*@media (max-width: 991px) {
+@media (max-width: 991px) {
     .container {
         width: 100%;
     }
@@ -927,9 +927,9 @@ h1 {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
     }
-}*/
+}
 
-/*@media (max-width: 767px) {
+@media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1067,7 +1067,7 @@ h1 {
         width: 180px;
         height: 320px;
     }
-}*/
+}
 
 @media (max-width: 400px) {
     .bloc {
